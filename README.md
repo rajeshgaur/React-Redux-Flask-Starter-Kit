@@ -73,4 +73,4 @@ Then run the Flask app:
 python app.py
 ```
 
-# React-Redux-Flux-Starter-Kit
+# React-Redux-Flask-Starter-Kit
