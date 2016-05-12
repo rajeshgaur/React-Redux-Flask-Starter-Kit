@@ -1,7 +1,7 @@
 
 # React + Redux + Flask starter kit
 
-A quick starter repo that includes Flask Reac,Redux, with Babel and Webpack. For proof-of-concept projects, workshop settings, etc where you don't want to worry about developer setup or writing config files.
+A quick starter repo that includes Flask React,Redux, with Babel and Webpack. For proof-of-concept projects, workshop settings, etc where you don't want to worry about developer setup or writing config files.
 
 TLDR; for the quick and dirty setup, install your dependencies:
 
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 npm install -g webpack; npm install
 ```
 
-Then in two separate tabs run `python app.py` and `webpack --watch`. Make edits to `js/Hello.js` and `app.py` to edit the frontend and backend, respectively.
+Then in two separate tabs run `python app.py` and `webpack --watch`.
 
 These steps are explained in more detail below.
 
