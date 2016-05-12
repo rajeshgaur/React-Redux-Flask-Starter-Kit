@@ -2,7 +2,7 @@ import React ,{Component} from 'react'
 import Test from '../components/test'
 import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
-import testActions from '../actions/testAction'
+import * as testActions from '../actions/testAction'
 
 function mapStateToProps(store) {
 	return{
